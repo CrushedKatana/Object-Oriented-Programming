@@ -1,4 +1,4 @@
-package Week2;
+package Week2.Percobaan3;
 
 public class Barang {
     public String namaBrg;

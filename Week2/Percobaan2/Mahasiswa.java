@@ -1,4 +1,4 @@
-package Week2;
+package Week2.Percobaan2;
 
 public class Mahasiswa {
     public int nim;
