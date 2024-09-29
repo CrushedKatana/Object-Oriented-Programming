@@ -41,6 +41,7 @@ public class Customer {
     }
 
     public int  totalCostCalculation() {
-        return car.carCostCalculation(day) + driver.driverCostCalculation(day);
+        return car.carCostCalculation(day) 
+        + driver.driverCostCalculation(day);
     }
 }
