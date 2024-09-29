@@ -17,9 +17,6 @@ public class MainExperiment2 {
         cust.setDay(2);
         System.out.println("Total cost = " +
         cust.totalCostCalculation());
-
-        System.out.println("Total cost = " + cust.totalCostCalculation());
-
-        System.out.println(cust.getCar().getName());
+        
     }
 }
