@@ -1,4 +1,4 @@
-package Week4;
+package Week4.EX1;
 
 public class Processor {
     private String brand;

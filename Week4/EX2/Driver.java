@@ -1,4 +1,4 @@
-package Week4;
+package Week4.EX2;
 
 public class Driver {
     private String name;

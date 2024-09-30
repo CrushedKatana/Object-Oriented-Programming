@@ -1,4 +1,4 @@
-package Week4;
+package Week4.EX1;
 
 public class MainExperiment1 {
     public static void main(String[] args) {
