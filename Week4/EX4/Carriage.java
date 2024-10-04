@@ -39,7 +39,7 @@ public class Carriage {
     }
 
     public void setPassenger(Passenger passenger, int number) {
-        if (seatArray[number - 1].getPassenger() == null) { // Check if seat is empty
+        if (this.seatArray[number - 1].getPassenger() == null) {
             this.seatArray[number - 1].setPassenger(passenger);
         } else {
             System.out.println("Seat " + number + " is already occupied.");
