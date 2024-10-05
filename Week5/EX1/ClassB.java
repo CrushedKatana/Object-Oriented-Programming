@@ -1,6 +1,6 @@
 package Week5.EX1;
 
-public class ClassB {
+public class ClassB extends ClassA {
     public int z;
 
     public void getNilaiZ(){
