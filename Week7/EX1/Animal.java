@@ -1,4 +1,4 @@
-package Week7;
+package Week7.EX1;
 
 public abstract class Animal {
     private int  age;
