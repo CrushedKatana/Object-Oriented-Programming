@@ -1,4 +1,4 @@
-package Week8.EX1;
+package Week8;
 
 public interface Payable {
     public int  getPaymentAmount();

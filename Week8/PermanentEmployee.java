@@ -1,4 +1,4 @@
- package Week8.EX1;
+ package Week8;
 
 public class PermanentEmployee extends Employee implements Payable {
     private int salary;

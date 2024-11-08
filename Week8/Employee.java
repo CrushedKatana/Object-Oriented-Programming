@@ -1,4 +1,4 @@
-package Week8.EX1;
+package Week8;
 
 public class Employee {
     protected String name;

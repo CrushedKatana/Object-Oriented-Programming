@@ -1,4 +1,4 @@
-package Week8.EX1;
+package Week8;
 
 public class InternshipEmployee extends Employee {
     private int lenght;
